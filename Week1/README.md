@@ -19,7 +19,7 @@ This folder contains the work and feedback from **Week 1** of my **Data Visualiz
 - 🎯 Suggested refining reasoning and improving accuracy in analysis.  
 
 ## 📂 Files in this Folder  
-- `Week1_Report.pdf` → Project report with analysis and recommendations.  
+- `Marketing_Analysis.pdf` → Project report with analysis and recommendations.  
 - `Team 7 - Week 1 Feedback Report _ Data Visualization Virtual Internship.pdf
 PDF` → Feedback highlighting strengths and improvement areas.  
 

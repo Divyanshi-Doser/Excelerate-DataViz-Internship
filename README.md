@@ -1,7 +1,7 @@
 # Data Visualization Internship – Weekly Journey 📊
 
 This repository contains my work and progress during my **Data Visualization Trainee Internship at Excelerate**.
-I have organized the content **week-wise**, including project reports and feedback reports, to showcase both my technical work and learning journey.
+I have organized the content **week-wise**, including project reports and feedback reports, to showcase both my technical work and learning journey along with my certificate, badge and 360° evaluation report.
 
 ## 📂 Repository Structure
 
@@ -29,6 +29,7 @@ I have organized the content **week-wise**, including project reports and feedba
 
 * **Project Reports** → Weekly tasks, analysis, and visualizations.
 * **Feedback Reports** → Weekly evaluations highlighting strengths, areas of improvement, and growth.
+* **Certificate & Recognition** → Internship completion certificate, 360° evaluation report, and Top Performer Badge.
 
 ## 🚀 Purpose
 

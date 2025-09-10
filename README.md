@@ -20,13 +20,11 @@ I have organized the content **week-wise**, including project reports and feedba
 │  
 ├── Week 4  
 │   ├── Week 4-DVT Team 7 Report.docx  
-│   ├── DVT Team - 7 Week-4 Feedback_Report.pdf
-│  
+│   ├── DVT Team - 7 Week-4 Feedback_Report.pdf 
 ├── Final Presentation-DVT Team 7_Report.pdf
-│  
-├── Data Visualization Virtual Internship Certificate.pdf
-│  
+├── Data Visualization Virtual Internship Certificate.pdf 
 ├── Divyanshi Doser _ Data Visualization Trainee 360 Degree Feedback Report.pdf
+├── Star Performer Badge.png
 ```
 
 ## ✨ What’s Inside?
